@@ -6,7 +6,7 @@ I used Python to build a simple number guessing game where the computer randomly
 ### How to Run
 Clone the Repository:
 ```bash
-gh repo clone cgrustas/Number-Guessing-Game
+https://github.com/cgrustas/Number-Guessing-Game.git
 ```
     
 ### How to Play
