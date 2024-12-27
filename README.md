@@ -14,3 +14,6 @@ https://github.com/cgrustas/Number-Guessing-Game.git
 2. Enter your guess.
 3. If your guess is incorrect, you will receive a hint indicating whether your guess was higher or lower than the random number.
 4. Keep guessing until you guess the correct number or run out of attempts.
+
+### Credits
+This project was provided by roadmap.sh, at this link: https://roadmap.sh/projects/number-guessing-game
